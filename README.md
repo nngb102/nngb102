@@ -13,7 +13,7 @@
 
 <br>
 
-- 🚀 **3+ years** crafting seamless **Flutter** experiences
+- 🚀 **5+ years** crafting seamless **Flutter** experiences
 - 🔥 Expert in **cross-platform mobile development**
 - 🧠 Integrating **cutting-edge AI** into mobile applications
 - 🌐 Full-stack capabilities with **Node.js, NestJS, Next.js**
