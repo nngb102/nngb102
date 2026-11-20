@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=3%2B+Years+Flutter+Expert;Full-Stack+Mobile+Developer;AI+Integration+Specialist;Cross-Platform+Solutions+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=5%2B+Years+Flutter+Expert;Full-Stack+Mobile+Developer;AI+Integration+Specialist;Cross-Platform+Solutions+Architect" />
 </div>
 
 <br>
